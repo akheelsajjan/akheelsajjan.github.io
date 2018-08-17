@@ -296,14 +296,17 @@ h3{
 }
 
 @media only screen and (max-width: 320px) {
-    .heading h1{
-        font-size: 2em;
-    }
+    
 
      .main{
-        width: 100%;
-        margin: auto;
+        width: 100%;    
     }
+
+    #sub-heading{
+        font-size: 2.5em;
+    }
+
+    
     #para{
         font-size:1.5em;
     }
@@ -325,7 +328,7 @@ h3{
     }
 
     .heading h1{
-        font-size: 3em;
+        font-size: 2em;
     }
     .button{
         font-size: 18px;
